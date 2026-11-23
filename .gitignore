@@ -1,0 +1,8 @@
+.vs/
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+*.sln
+*.slnx
+*.blend[0-9]*
